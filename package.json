@@ -19,6 +19,7 @@
     "faunadb": "^4.7.1",
     "next": "13.0.0",
     "next-auth": "^4.15.0",
+    "prismic-dom": "^2.2.7",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-icons": "^4.6.0",
@@ -28,6 +29,7 @@
   "devDependencies": {
     "@prismicio/types": "^0.2.3",
     "@types/node": "^18.11.8",
+    "@types/prismic-dom": "^2.1.1",
     "@types/react": "^18.0.24",
     "eslint": "8.26.0",
     "eslint-config-next": "13.0.0",
